@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b1e17"],{2278:function(e,n,c){"use strict";c.r(n);var t=function(){var e=this,n=e.$createElement,c=e._self._c||n;return c("div",[e._v(" 邮箱 ")])},a=[],u={name:"email"},i=u,l=c("0c7c"),r=Object(l["a"])(i,t,a,!1,null,"5599cfd9",null);n["default"]=r.exports}}]);
